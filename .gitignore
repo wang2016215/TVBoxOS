@@ -95,3 +95,5 @@ lint/tmp/
 /LTDecodeNew3.exe
 
 .idea/
+.idea/compiler.xml
+.idea/misc.xml
